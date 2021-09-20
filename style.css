@@ -1,0 +1,72 @@
+#submitCity {
+  border-radius: 15px;
+  width: 120px;
+  height: 60px;
+  color:blue;
+  font-size:inherit;
+  background-color: grey;
+}
+
+
+li{
+  /* list-style-type: none; */
+  display: block;
+}
+
+
+.cityCard{
+  font-size: 20px;
+
+}
+p{
+  display: inline-table;
+  flex-wrap: wrap;
+  flex-direction:row;
+  background-color: lightskyblue;
+  max-width: 14%;
+  padding-right: 5px;
+  
+}
+.weatherCard{
+  border-radius: 15px;
+  padding: 25px;
+  border-color: maroon;
+  border-width: 3px;
+}
+
+#currentCity{
+  background-color: rgb(51, 154, 185);
+  font-size: 64px;
+  position: relative;
+  text-size-adjust: 30%;
+ 
+  top: 5px;
+  right: -40%;
+  height: 30%;
+}
+
+
+/* .flex-container{
+  display:flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+   max-width: 16%; }*/
+
+.date{
+  background-color: lightcoral;
+
+ 
+  background-color: lightgreen;
+  justify-content: center;
+
+}
+
+
+
+  
+
+
+.wImage{
+  max-block-size: 150px;
+  justify-content: right;
+}
