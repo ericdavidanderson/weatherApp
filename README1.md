@@ -20,4 +20,4 @@ information.  The uv index has a blue background color for low, yellow for mediu
 
 
 git hub: https://github.com/ericdavidanderson/weatherApp
-url: 
+url: https://ericdavidanderson.github.io/weatherApp/
