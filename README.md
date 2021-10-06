@@ -8,6 +8,7 @@ information.  The uv index has a blue background color for low, yellow for mediu
 
 
 
+<img width="2555" alt="Screen Shot 2021-10-06 at 1 05 20 AM" src="https://user-images.githubusercontent.com/87750403/136168614-cf7bbdf5-ff09-498b-9eea-592a96d0a838.png">
 
 
 
